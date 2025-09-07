@@ -1,0 +1,94 @@
+{
+    "resources":[
+        {
+            "resource-key": "",
+            "title": "",
+            "url": "",
+            "category": "User manuel"
+        },
+        {
+            "resource-key": "",
+            "title": "",
+            "url": "",
+            "category": "Datasheet"
+        },
+        {
+            "resource-key": "Flaticon",
+            "title": "Flaticon",
+            "url": "https://www.flaticon.com/fr/",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "ChatGPT",
+            "title": "ChatGPT",
+            "url": "https://chatgpt.com/",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "W3Schools",
+            "title": "W3 Schools",
+            "url": "https://www.w3schools.com/html/default.asp",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "WebServer",
+            "title": "Web Server utilisant Server-Sent Events",
+            "url": "https://randomnerdtutorials.com/esp32-web-server-sent-events-sse/?utm_source=chatgpt.com",
+            "category": "TUTO"
+        },
+        {
+            "resource-key": "FreeCSS",
+            "title": "Free Templates",
+            "url": "https://www.free-css.com/",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "PortFolioExamples",
+            "title": "Exemples gratuit de PortFolio",
+            "url": "https://github.com/topics/portfolio",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "CreateWebSite",
+            "title": "OpenClassrooms - Créer site web",
+            "url": "https://openclassrooms.com/fr/courses/6812771",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "HTML",
+            "title": "HyperText Markup Language",
+            "url": "https://developer.mozilla.org/fr/docs/Web/HTML",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "CSS",
+            "title": "Cascading Style Sheets",
+            "url": "https://developer.mozilla.org/fr/docs/Web/CSS",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "Responsive",
+            "title": "Conception Responsive",
+            "url": "https://developer.mozilla.org/fr/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "GitHubPages",
+            "title": "Guide GitHub Pages",
+            "url": "https://pages.github.com/",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "JavaScript",
+            "title": "JavaScript pour débutant",
+            "url": "https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Introduction",
+            "category": "Online help"
+        },
+        {
+            "resource-key": "DarkMode",
+            "title": "CSS : prefers-colors-scheme",
+            "url": "https://developer.mozilla.org/fr/docs/Web/CSS/@media/prefers-color-scheme",
+            "category": "Online help"
+        }
+    ]
+}

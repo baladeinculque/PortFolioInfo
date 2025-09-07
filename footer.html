@@ -1,0 +1,85 @@
+<html lang="fr-FR">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <div class="footer-banner">
+        
+            <div class="flex-container space-around text-white">        
+                <!-- Colonne 1 : Logo IUT -->
+                <div class="box">
+                    <a href="https://www.iutbayonne.univ-pau.fr/" target="_blank" title="Lien vers le site de l'IUT de Bayonne et du Pays Basque">
+                        <img src="assets/logos/LogoIutBpb_color.png" alt="Logo IUT" height="120px">
+                    </a>
+                </div>
+                <!-- Colonne 2 : Adresse et Icones IUT-->
+                <div class="box">
+                    <h4 class="text-white">IUT de Bayonne et du Pays Basque</h4>
+    
+                    <h5 class="text-white"><!--img src="../images/location-white.png" alt="location icon"-->2 allée du Parc Montaury - 64600 Anglet</h5>
+                    <h5><!--img src="../images/call-white.png" alt="call icon"--><a href="tel:0559574320" class="text-white">+33 5 59 57 43 20</a></h5>
+                    <h5><!--img src="../images/mail-white.png" alt="mail icon"--><a href="mailto:sec-info@iutbayonne.univ-pau.fr" class="text-white">sec-info@iutbayonne.univ-pau.fr</a></h5>
+                    
+                    <div class="social-list">
+                        <a href="https://www.linkedin.com/edu/iut-de-bayonne-et-du-pays-basque-164183" target="_blank" title="Lien LinkedIn">
+                            <img src="assets/icons/icon_social_media_linkedin.png" alt="Logo LinkedIn" height="30px">
+                        </a>
+                        <a href="https://www.facebook.com/IUT.Bayonne.Pays.Basque/" target="_blank" title="Lien Facebook">
+                            <img src="assets/icons/icon_social_media_facebook.png" alt="Logo Facebook" height="30px">
+                        </a>
+                        <a href="https://www.instagram.com/iutbayonne/" target="_blank" title="Lien Instagram">
+                            <img src="assets/icons/icon_social_media_instagram.png" alt="Logo Instagram" height="30px">
+                        </a>
+                        <a href="https://www.youtube.com/@iutbayonne" target="_blank" title="Lien YouTube">
+                            <img src="assets/icons/icon_social_media_youtube.png" alt="Logo YouTube" height="30px">
+                        </a>
+                    </div>
+                </div>
+                        
+                <!-- Colonne 3 : Liens utiles et amis -->  
+                <div class="box">
+                        <h4 class="text-white" data-key="LinkTab-name">Liens utiles et amis</h4>
+                        <h5><a class="text-white modal-header" data-key="LinkTab-Ressource-name" onclick="showModal('footerRessources')">Ressources</a></h5>
+                        <div class="modal hidden modal-txt" id="footerRessources">
+                            <div>
+                                <span id="x-button" class="close" onclick="closeModal('footerRessources')">
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="M31.797 0.191c-0.264-0.256-0.686-0.25-0.942 0.015l-13.328 13.326c-0.598 0.581 0.342 1.543 0.942 0.942l13.328-13.326c0.27-0.262 0.27-0.695 0-0.957zM14.472 17.515c-0.264-0.256-0.686-0.25-0.942 0.015l-13.328 13.326c-0.613 0.595 0.34 1.562 0.942 0.942l13.328-13.326c0.27-0.262 0.27-0.695 0-0.957zM1.144 0.205c-0.584-0.587-1.544 0.336-0.942 0.942l30.654 30.651c0.613 0.625 1.563-0.325 0.942-0.942z"></path>
+                                    </svg>
+                                </span>
+                            </div>
+                            <div class="modal-content">
+                                <p class="p">
+                                    <h1 data-key="LinkTab-Ressource-name"></h1>
+                                    <label for="categoryFilter" data-key="LinkTab-Resources-Label"></label>
+                                    <select id="categoryFilter">
+                                        <option data-key="select-category" value="all"></option>
+                                    </select>
+                                    <ul id="resourceList"></ul>
+                                </p>
+                            </div>
+                        </div>
+
+                        <h5><a href="https://www.7profilsapprentissage.com/" target="_blank" class="text-white">Les 7 profils d'apprentissage</a></h5>
+                        <h5><a href="" target="_blank" class="text-white"></a></h5>
+                        <h5><a href="" target="_blank" class="text-white"></a></h5>
+                        <h5><a href="" target="_blank" class="text-white"></a></h5>
+                        <h5><a href="" target="_blank" class="text-white"></a></h5>
+                </div>
+                
+                <!-- Colonne 4 : Logo Univ -->  
+                <div class="box">
+                    <a href="https://www.univ-pau.fr/fr/index.html" target="_blank" title="Lien vers site de l'Université de Pau"><img src="assets/logos/LogoUppa_color.png" alt="Logo Univ" height="90px"></a>
+                </div>
+            </div>
+        
+    </div>
+    <div class="container-row text-white">
+        <h4 data-key="LinkTab-allrights-name">©2025 - Cédric R. - Tous droits réservés</h4>
+    </div>
+
+    <script src="script.js"></script>
+</html>

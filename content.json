@@ -1,0 +1,107 @@
+{
+  "Home-name": {
+    "fr": "ACCUEIL",
+    "en": "HOME"
+  },
+  "Context-name": {
+    "fr": "CONTEXTE",
+    "en": "CONTEXT"
+  },
+  "Aboutme-name": {
+    "fr": "À PROPOS DE MOI",
+    "en": "ABOUT ME"
+  },
+  "Activities-name": {
+    "fr": "SAÉ",
+    "en": "PROJECTS"
+  },
+  "Contact-name": {
+    "fr": "CONTACT",
+    "en": "CONTACT"
+  },
+  "Main-title": {
+    "fr": "Mon PortFolio",
+    "en": "My PortFolio"
+  },
+  "Main-substitle-0": {
+    "fr": "Étudiant en 1<sup>ère</sup> année",
+    "en": "First year student"
+  },
+  "Main-substitle-1": {
+    "fr": "BUT Informatique",
+    "en": "BUT Computer Science"
+  },
+  "Main-substitle-2": {
+    "fr": "Réalisation d'applications : conception, développement, validation",
+    "en": "Application implementation: design, development, validation"
+  },
+  "Main-substitle-3": {
+    "fr": "Intégration d'applications et management du système d'information",
+    "en": "Application integration and information system management"
+  },
+  "Context-content-l1": {
+    "fr": "La SAé (Situation d’Apprentissage et d’Évaluation) est un moyen d’évaluer la réalisation et la compréhension d’une tâche donnée.",
+    "en": "The SAé (Learning and Assessment Situation) is a way to evaluate the completion and understanding of a given task."
+  },
+  "Context-content-l2": {
+    "fr": "Dans le cadre du Bachelor Universitaire de Technologie, ce portfolio constitue l’une des activités évaluées issues de la première année. Toutefois, ayant intégré le Bachelor en seconde année, il s’agit de ma première SAé.",
+    "en": "As part of the Bachelor's degree in technology, this portfolio is one of the evaluated activities from the first year, but since I joined the Bachelor’s program in the second year, this activity becomes my first."
+  },
+  "Context-content-l3": {
+    "fr": "Le BUT GEII forme des spécialistes de l’électricité, de l’électronique et de l’informatique industrielle, capables de concevoir, installer, programmer et maintenir des systèmes électroniques et/ou automatisés.",
+    "en": "The BUT GEII trains specialists in electricity, electronics, and industrial computing capable of designing, installing, programming, and maintaining electronic and/or automated systems."
+  },
+  "Context-content-l4": {
+    "fr": "Ce portfolio fait référence à des activités d’électronique et de systèmes embarqués, correspondant à l’option que j’ai choisie.",
+    "en": "This portfolio will refer to activities in electronics and embedded systems because this is the option I have chosen."
+  },
+  "Competences": {
+    "fr": "Référentiel des compétences du BUT Informatique",
+    "en": "BUT Computer Science Competency Framework (Only available in french)"
+  },
+  "Context-content-l5": {
+    "fr": "Je réalise ce Bachelor en alternance entre l'IUT d'Angoulême (16) et l'entreprise Sercel à Carquefou (44).",
+    "en": "I am completing this Bachelor’s degree in a work-study program between the IUT of Angoulême (16) and the company Sercel in Carquefou (44)."
+  },
+  "CV": {
+    "fr": "Afficher le CV",
+    "en": "View Resume"
+  },
+  "Aboutme-content": {
+  "fr": "Bonjour à tous,\nJe m'appelle Cédric ROUILLÉ, j'ai 39 ans, et voici ma présentation personnelle.\nPendant une dizaine d’années, j’ai consacré mon temps et mon énergie à l’industrie de la restauration. Ce fut une période enrichissante, au cours de laquelle j’ai développé des compétences essentielles telles que la gestion du temps, l’anticipation des besoins, le travail en équipe et la gestion du stress dans un environnement dynamique.\nAvec le temps, mes envies et mes besoins ont évolué. J’ai donc commencé par travailler en intérim comme préparateur de commandes, avant d’entamer une reconversion professionnelle. Cette décision, mûrement réfléchie, repose sur la conviction profonde qu’il est essentiel de suivre ses passions et de se développer en permanence.\nJ’ai suivi des formations accélérées pour adultes, notamment un Bac Pro Systèmes Numériques RISC (Réseaux Informatiques et Systèmes Communicants) et un BTS SNEC (Systèmes Numériques Électroniques et de Communication). Par la suite, j’ai travaillé pendant 18 mois en intérim, d’abord dans le domaine de l’informatique, puis dans celui de l’électronique. Cette première expérience m’a permis de mettre en pratique les compétences acquises et de confirmer mes choix de réorientation. Elle a toutefois mis en lumière certaines limites propres aux formations intensives.\nGrâce à ma persévérance et à la réforme des IUT, je poursuis aujourd’hui un BUT GEII (Génie Électrique et Informatique Industrielle), spécialité Électronique et Systèmes Embarqués.\nJe suis actuellement en alternance au sein d’une entreprise qui conçoit et fabrique des systèmes destinés à la cartographie souterraine. Historiquement, nos clients prospectaient des sources de pétrole et de gaz, mais l’entreprise, Sercel, s’oriente désormais vers les domaines du monitoring et de la transition énergétique. Ce sont des valeurs que je privilégie largement par rapport aux énergies fossiles.\nMes principaux objectifs sont les suivants : contribuer au développement d’outils interconnectés, optimiser les consommations énergétiques, participer à la conception et à la maintenance de produits de communication électronique, et proposer des solutions matérielles et logicielles pour améliorer les produits existants.\nCette transition est passionnante et riche d’enseignements. Elle m’incite à apprendre continuellement dans un environnement totalement différent de celui dans lequel j’ai évolué pendant la première partie de ma carrière.\nJe suis convaincu que chaque expérience — qu’elle soit dans la restauration, la logistique, l’électronique, ou dans un domaine plus personnel — a contribué à forger ma personnalité et à me donner une perspective unique.\nJe suis ouvert aux opportunités, aux collaborations et aux défis stimulants qui me permettront de continuer à grandir, tant professionnellement que personnellement.",
+  "en": "Hello everyone,\nMy name is Cédric ROUILLÉ, I’m 39 years old, and here is my personal introduction.\nFor about ten years, I dedicated my time and energy to the restaurant industry. It was a rewarding period during which I developed essential skills such as time management, anticipating needs, teamwork, and stress management in a fast-paced environment.\nOver time, my goals and interests evolved. I initially worked as an order picker through temporary assignments before deciding to pursue a career change. It was a carefully considered decision, driven by my deep belief in the importance of following one’s passions and continuously growing.\nI completed accelerated training programs for adults, including a vocational baccalaureate in Digital Systems (RISC – Computer Networks and Communicating Systems) and a BTS in Digital Systems (Electronics and Communication). I then spent 18 months working in temporary positions, first in IT, then in electronics. This first experience allowed me to apply the skills I had acquired and confirmed that I had made the right career change. However, it also highlighted some of the limitations of fast-track training programs.\nThanks to my perseverance and the recent reform of university technology institutes in France, I am now enrolled in a University Bachelor of Technology (BUT) in Electrical Engineering and Industrial Computing (GEII), specializing in Electronics and Embedded Systems.\nI’m currently in a work-study program, working in test validation at a company that designs and manufactures systems for underground mapping. Historically, our clients explored for oil and gas sources, but the company is now shifting toward monitoring and energy transition technologies. These are values I strongly support, far more than fossil energy.\nMy main goals are to contribute to the development of interconnected tools, optimize energy consumption, support the design and maintenance of electronic communication products, and develop both hardware and software solutions to improve existing systems.\nThis career shift has been exciting and full of valuable lessons. It pushes me to keep learning in an environment completely different from the one I worked in during the first part of my career.\nI am convinced that every experience has helped shape who I am and given me a unique perspective.\nI’m open to new opportunities, collaborations, and stimulating challenges that will allow me to continue growing both professionally and personally."
+  },
+  "LinkTab-name": {
+    "fr": "Liens utiles et amis",
+    "en": "Useful links and friends"
+  },
+  "LinkTab-Ressource-name": {
+    "fr": "Ressources",
+    "en": "Resources"
+  },
+  "LinkTab-xxxx-name": {
+    "fr": "xxxx",
+    "en": "xxxx"
+  },
+  "LinkTab-xxxxxx-name": {
+    "fr": "xxxxxx",
+    "en": "xxxxxx"
+  },
+  "LinkTab-xxxxxxxx-name": {
+    "fr": "xxxxxxxx",
+    "en": "xxxxxxxx"
+  },
+  "LinkTab-allrights-name": {
+    "fr": "©2025 - Cédric R. - Tous droits réservés",
+    "en": "©2025 - Cédric R. - All rights reserved"
+  },
+  "select-category": {
+    "fr": "Toutes les catégories",
+    "en": "All categories"
+  },
+  "LinkTab-Resources-Label": {
+    "fr": "Filtrer par catégorie :",
+    "en": "Filter by category :"
+  }
+}
+  

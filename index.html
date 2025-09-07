@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="shortcut icon" href="assets/icons/Pf.ico" />
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+        <title>CR - PortFolio</title>
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <section class="home" id="home_area">
+            <header class="color-bg">
+                <div class="main-logo">
+                    <a href="#"><img src="assets/logos/LogoPf_white.png" alt="Logo" height="60px"></a>               
+                </div>
+                
+                <nav class="main-nav">
+                    <button onclick="toggleList()"><img src="assets/icons/icon_menu_white.png" height="40px"></button>
+                    <ul id="responsive-list">
+                        <li><a href="#home_area" data-key="Home-name">ACCUEIL</a></li>
+                        <li><a href="#context_area" data-key="Context-name">CONTEXTE</a></li>
+                        <li><a href="#aboutme_area" data-key="Aboutme-name">A PROPOS DE MOI</a></li>
+                        <li><a href="#sae_area" data-key="Activities-name">SAÉ</a></li>
+                        <li><a href="#footer_area" data-key="Contact-name">CONTACT</a></li>
+                        <li><a href="https://www.linkedin.com/in/cedric-rouille-06876a1b0/" target="_blank" class="external"><img src="assets/icons/social_media_linkedin_icon.png" alt="logo_linkedin" width="40px" height="40px"></a></li>
+                        <select class="button" id="toggleButton">
+                            <option value="fr" selected>Français</option>
+                            <option value="en">English</option>
+                        </select>
+                    </ul>
+                </nav>
+            </header>
+
+            <div class="home_area middle center text-white">
+                <h1 class="element-title" data-key="Main-title">Mon PortFolio</h1>
+                <h5 data-key="Main-substitle-0">Étudiant en 1<sup>ère</sup> année</h5>
+                <h3 data-key="Main-substitle-1">BUT Informatique</h3>
+                <!--h4 data-key="Main-substitle-2">Option A - D</h4-->
+            </div>
+
+            <div>
+                <h1></h1>
+            </div>
+        </section>
+
+        <section class="section context_area text-white" id="context_area">
+            <div class="center">
+                <h2 data-key="Context-name">Contexte</h2>
+                <div>
+                    <p data-key="Context-content-l1"></p>
+                    <p data-key="Context-content-l2"></p>
+                    <p data-key="Context-content-l3"></p>
+                    <p data-key="Context-content-l4"></p>
+                    <p><a class="button" data-key="Competences" href="" target="_blank">Référentiel de compétences</a></p>
+                    <p data-key="Context-content-l5"></p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section aboutme_area container" id="aboutme_area">
+            <div class="box-right text-white">
+                <h2 data-key="Aboutme-name">À propos de moi</h2>
+                <div>
+                    <div class="aboutme_content" data-key="Aboutme-content"></div>
+                    <br>
+                    <a class="button" id="cvLink" data-key="CV" href="assets/documents/CV_CédricRouillé.pdf" target="_blank"></a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section sae_area" id="sae_area">
+
+        </section>
+        
+        <!--section class="section sae_area" id="sae_area">
+            <div class="box large">
+                <div class="zone title">
+                    <h1 data-key="Projects-year2-name">Projets de l'année 2023/2024</h1>
+                </div>
+                <div class="zone">
+                    <img class="activities" src="assets/icons/portfolio.ico" alt="Icone Activité 1" height="50px">
+                    <a data-key="Project2.1-name" class="nav2 activities" href="activite2.1.html">Premier Projet : Réalisation d'un Portfolio</a>
+                </div>
+                <div class="zone">
+                    <img class="activities" src="assets/icons/stylotvoltmetre.png" alt="Icone Activité 2" height="50px">
+                    <a data-key="Project2.2-name" class="nav2 activities" href="activite2.2.html">Second Projet : SAé - Stylo Voltmètre</a>
+                </div>
+                <hr>
+                <div class="zone title">
+                    <h1 data-key="Projects-year3-name">Projets de l'année 2024/2025</h1>
+                </div>
+                <div class="zone">
+                    <img class="activities" src="assets/icons/icon_web-scraper.png" alt="Icone Activité 1" height="50px">
+                    <a data-key="Project3.1-name" class="nav2 activities" href="activitie3.1.html">Premier Projet : Automatisation de la feuille de présence</a>
+                </div>
+                <div class="zone">
+                    <img class="activities" src="assets/icons/mesurerenergie.png" alt="Icone Activité 2" height="50px">
+                    <a data-key="Project3.2-name" class="nav2 activities" href="activitie3.2.html">Second Projet : SAé - Prise en main de l'ESP32</a>
+                </div>
+            </div>
+        </section-->
+
+        <section class="section footer" id="footer_area" style="bottom: 0px; width: 100%;">
+            <div id="footerContainer"></div>
+            <!--iframe id="footerFrame" src="footer.html" style="border:none;width:100%;height:365px;"></iframe-->
+        </section>
+
+        <button class="scroll-top">
+            <a href="#"><img src="assets/icons/scroll_to_top_white_icon2.png" width="30px"></a>
+        </button>
+
+        <script src="script.js"></script>
+
+    </body>
+
+</html>
