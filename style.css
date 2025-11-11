@@ -268,7 +268,7 @@ header a{
 .footer-banner{
     display: flex;
     justify-content: center;
-    background-color: #232323;
+    background-color: #232323d0;
     padding: 15px;
     margin-top: 15px;
     margin-bottom: 15px;
